@@ -24,3 +24,7 @@ wght@0,6..12,200..1000;1,6..12,200..1000&display=swap’);
                     justify-content: center;
                     font-weight: 400;
                     }
+                    nav a {
+                        text-decoration: none;
+                        color: var(--bg-color);
+                        margin: 0rem 2rem 3rem 0rem;
